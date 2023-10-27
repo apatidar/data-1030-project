@@ -7,3 +7,5 @@ Los Angeles, widely considered one of the most dangerous cities in California, e
 The dataset was sourced from Kaggle but originally retrieved from the Open Data repository maintained by the City of Los Angeles. It encompasses manually-transcribed crime reports spanning from January 2010 to April 2023.
 
 NOTE: The original GitHub repository had to be deleted and replaced due to issues concerning file upload size.
+
+Dataset: https://www.kaggle.com/datasets/chaitanyakck/crime-data-from-2020-to-present
