@@ -15,6 +15,7 @@ Packages:
 channels:
 - conda-forge
 - defaults
+
 dependencies:
 - python=3.11.4
 - matplotlib=3.7.2
