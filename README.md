@@ -8,7 +8,10 @@ The dataset was sourced from Kaggle but originally retrieved from the Open Data 
 
 Dataset: https://www.kaggle.com/datasets/chaitanyakck/crime-data-from-2020-to-present
 
+Please note that the dataset was too large to store on GitHub!
+
 Packages:
+
 channels:
 - conda-forge
 - defaults
